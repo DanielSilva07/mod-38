@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Web2:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/Web2_war_exploded</output-path>
+    <root id="root">
+      <element id="module-output" name="Web2" />
+    </root>
+  </artifact>
+</component>
